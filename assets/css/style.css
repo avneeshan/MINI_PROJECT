@@ -138,8 +138,8 @@
 }
 
 .lightbox img {
-  max-width: 95%;
-  max-height: 95%;
+  max-width: 80%;
+  max-height: 80%;
 }
 
 .lightbox .close {
@@ -584,7 +584,7 @@ main {
 
 .service-icon-box { margin-bottom: 10px; }
 
-.service-icon-box img { margin: auto; }
+.service-icon-box img { margin: auto;}
 
 .service-content-box { text-align: center; }
 
