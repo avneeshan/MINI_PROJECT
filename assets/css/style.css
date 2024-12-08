@@ -120,7 +120,7 @@
 @font-face
 {
 	font-family: gunplay;
-	src: url("../images/fonts/gunplay.ttf")
+	src: url("../images/fonts/Gunplay-Regular 400.ttf")
 }
 
 /* Lightbox styles */
@@ -839,13 +839,18 @@ main {
 
 #gunplayfont
 {
-	font-size: 25px;
+	font-size: 50px;
 	font-family:gunplay;
+	color: white;
+	font-weight: 90;
 }
 #daytonfont
 {
-	font-size: 25px;
+	font-size: 50px;
 	font-family:dayton;
+	color: white;
+	font-weight: 90;
+	
 }
 
 .timeline-list span {
